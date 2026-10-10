@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/mgabrieleProfesorUA/202602_js_dfsb_06#readme",
   "dependencies": {
+    "bcrypt": "^6.0.0",
     "mongoose": "^9.11.1"
   }
 }
